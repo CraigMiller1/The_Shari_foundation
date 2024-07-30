@@ -1,0 +1,2 @@
+email,password,passwordconfirm
+gdgdgdgd@gmail.com,jijsa3-xuxcUr-davpik,jijsa3-xuxcUr-davpik
